@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+	white-space: nowrap;
+	background-color: #eeeedd;
+}
+
+h2 { text-align: center;
+	 color: #00cc66;
+	 font-family: sans-serif;
+	 white-space: nowrap;
+}
